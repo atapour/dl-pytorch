@@ -20,6 +20,8 @@ The images in this dataset have been scraped from the internet and do not belong
 
 ![Jar Jar Binks](sample_imgs/Binks.jpg)
 
+There are 60 training images and 30 test images for each class in this dataset.
+
 A larger dataset with more classes can be found here:
 https://www.kaggle.com/datasets/mathurinache/star-wars-images
 
