@@ -58,12 +58,34 @@ python <example file name>.py
 
 In this repository, you can find the following examples:
 
+#### - 0. Setup
+
+This directory contains examples (```PyTorch_Programming_Setup.py``) that demonstrate how a simple PyTorch environment can be setup andhow visdom works.
+
+Video: [https://youtu.be/k-VpBk81k-U](https://youtu.be/k-VpBk81k-U)
 
 #### - 1. Tensors:
 
 This directory contains examples (```PyTorch_Programming_Tensors.py``` and ```PyTorch_Programming_Tensors.ipynb```) that demonstrate the functionalities of Tensors in PyTorch.
 
+Video: [https://youtu.be/enShn2dhlPo](https://youtu.be/enShn2dhlPo)
+
 #### - 2. Datasets:
 
-This directory contains the dataset "AckBinks: A Star Wars Dataset", which is used to demonstrate how PyTorch handles datasets. It also contains examples ()
+This directory contains the dataset "AckBinks: A Star Wars Dataset", which is used to demonstrate how PyTorch handles datasets. It also contains examples (```PyTorch_Programming_Datasets.py``` and ```PyTorch_Programming_Datasets.ipynb```) that show how PyTorch deals with datasets and what tools are available to process data.
+
+Video: [https://youtu.be/UIk0MgOsa6c](https://youtu.be/UIk0MgOsa6c)
+
+#### - 3. Backpropagation:
+
+This directory contains examples (```PyTorch_Programming_Backpropagation.py``` and ```PyTorch_Programming_Backpropagation.ipynb```) that demonstrate how PyTorch enables backpropagation.
+
+Video: [https://youtu.be/mLc78Vcqv-g](https://youtu.be/mLc78Vcqv-g)
+
+#### - 4. Classifier:
+
+This directory contains examples (```PyTorch_Programming_Classifier.py``` and ```PyTorch_Programming_Classifier.ipynb```) that provide an example of training a complete classifier using a simple neural network.
+
+Video: [https://youtu.be/Yvvm3w3jLfg](https://youtu.be/Yvvm3w3jLfg)
+
 ---
