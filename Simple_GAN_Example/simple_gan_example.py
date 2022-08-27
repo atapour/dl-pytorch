@@ -43,13 +43,12 @@ rm AckBinks.zip
 
 """
 
-"""Now we are ready to process our data. We are going to convert our data to 32x32 grayscale images to make the work easier and more efficient just for demonstration purposes.
+"""Now we are ready to process our data. We are going to convert our data to 32x32 images to make the work easier and more efficient just for demonstration purposes.
 
 Since our dataset has two classes, we are also going to pick one of these classes and have our GAN generate images of that class only. Let's pick Jar Jar Binks since he is better-looking:
 """
 
 transform = torchvision.transforms.Compose([
-    # torchvision.transforms.Grayscale(),
     torchvision.transforms.Resize([32,32]),
     torchvision.transforms.RandomHorizontalFlip(),
     torchvision.transforms.ToTensor(),
