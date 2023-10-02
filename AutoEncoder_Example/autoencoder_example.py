@@ -4,7 +4,7 @@
 
 This notebook will provide an example that shows the implementation of a simple AutoEncoder in PyTorch.
 
-Copyright (c) 2022 Amir Atapour-Abarghouei, UK.
+Copyright (c) 2023 Amir Atapour-Abarghouei, UK.
 
 based on: https://colab.research.google.com/gist/cwkx/e3ef25d0adb6e2f2bf747ce664bab318/conv-autoencoder.ipynb#scrollTo=RGbLY6X-NH4O
 
