@@ -7,12 +7,6 @@
 
 This notebook will provide a few examples that show backpropagation in PyTorch.
 
-based on https://github.com/cwkx/ml-materials
-
-Copyright (c) 2022 Amir Atapour-Abarghouei, UK.
-
-License : LGPL - http://www.gnu.org/licenses/lgpl.html
-
 We are going to look at how PyTorch supports backpropagation. Let's start by creating a tensor:
 """
 
@@ -107,3 +101,10 @@ print('done!')
 print(x.grad)
 
 """This tool set makes training neural networks very simple and efficient."""
+
+"""
+Copyright (c) 2023 Amir Atapour-Abarghouei, UK.
+
+based on https://github.com/cwkx/ml-materials
+License : LGPL - http://www.gnu.org/licenses/lgpl.html
+""
