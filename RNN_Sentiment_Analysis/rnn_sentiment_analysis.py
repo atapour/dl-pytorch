@@ -13,7 +13,7 @@ Original file is located at
 
 This notebook will provide an example that shows the implementation of a simple RNN for sentiment analysis in PyTorch.
 
-Copyright (c) 2022 Amir Atapour-Abarghouei, UK.
+Copyright (c) 2023 Amir Atapour-Abarghouei, UK.
 
 License : LGPL - http://www.gnu.org/licenses/lgpl.html
 
