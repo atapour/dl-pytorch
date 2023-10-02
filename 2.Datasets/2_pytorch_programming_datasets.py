@@ -7,12 +7,6 @@
 
 This notebook will provide a few examples that show how PyTorch deals with datasets.
 
-based on https://github.com/cwkx/ml-materials
-
-Copyright (c) 2022 Amir Atapour-Abarghouei, UK.
-
-License : LGPL - http://www.gnu.org/licenses/lgpl.html
-
 Let's start by importing what we need. [Torchvision](https://pytorch.org/vision/stable/index.html) is a very helpful that helps us deal with **vision** data a lot easier. There is also [Torchtext](https://pytorch.org/text/stable/index.html) and [Torchaudio](https://pytorch.org/audio/stable/index.html), which can help you with all kinds of projects.
 """
 
@@ -171,3 +165,10 @@ plt.imshow(grid.permute(1, 2, 0))
 
 https://pytorch.org/vision/stable/index.html
 """
+
+"""
+Copyright (c) 2023 Amir Atapour-Abarghouei, UK.
+
+based on https://github.com/cwkx/ml-materials
+License : LGPL - http://www.gnu.org/licenses/lgpl.html
+""
