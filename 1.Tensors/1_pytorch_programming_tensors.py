@@ -7,12 +7,6 @@
 
 This notebook will provide a few examples that show the capabilities of tensors in PyTorch Programming.
 
-based on https://github.com/cwkx/ml-materials
-
-Copyright (c) 2022 Amir Atapour-Abarghouei, UK.
-
-License : LGPL - http://www.gnu.org/licenses/lgpl.html
-
 Let's start by importing what we need:
 """
 
@@ -158,3 +152,10 @@ At certain points, you might need to use CPU again, which can be done very easil
 x.cpu().device
 
 """As you see, PyTorch offers the versatility of numpy arrays but the ability to use the GPU easily."""
+
+"""
+Copyright (c) 2023 Amir Atapour-Abarghouei, UK.
+
+based on https://github.com/cwkx/ml-materials
+License : LGPL - http://www.gnu.org/licenses/lgpl.html
+"""
