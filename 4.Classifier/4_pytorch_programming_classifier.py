@@ -7,12 +7,6 @@
 
 This notebook will provide an example that shows the use of a simple neural network for classification in PyTorch.
 
-based on https://github.com/cwkx/ml-materials
-
-Copyright (c) 2022 Amir Atapour-Abarghouei, UK.
-
-License : LGPL - http://www.gnu.org/licenses/lgpl.html
-
 Let's start by importing what we need:
 """
 
@@ -205,3 +199,11 @@ while step < 5000:
         logs['val_Accuracy'] = test_accuracy.item()
         liveloss.update(logs)
         liveloss.send()
+        
+        
+"""
+Copyright (c) 2023 Amir Atapour-Abarghouei, UK.
+
+based on https://github.com/cwkx/ml-materials
+License : LGPL - http://www.gnu.org/licenses/lgpl.html
+""
