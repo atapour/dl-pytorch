@@ -10,7 +10,6 @@ This notebook will provide an example that shows the use of a simple neural netw
 Let's start by importing what we need:
 """
 
-import numpy as np
 import torch
 import torch.nn as nn
 import torchvision
